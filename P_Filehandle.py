@@ -29,4 +29,4 @@ if score>hiscore:
     g.write(str(score))
     g.close()
 else:
-    s.close()
+    s.close()   
